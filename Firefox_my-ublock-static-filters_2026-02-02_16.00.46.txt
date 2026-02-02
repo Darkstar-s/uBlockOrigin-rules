@@ -1,0 +1,36 @@
+! 2024年8月18日 https://www.bilibili.com
+www.bilibili.com##.adblock-tips
+
+! 2024年8月18日 https://www.huya.com
+!www.huya.com###player-gift-wrap
+
+! 2025年1月20日 https://live.douyin.com
+live.douyin.com##.aqK_4_5U
+
+! 2025年10月22日 https://www.huya.com
+www.huya.com##.new-reward-ab-container
+
+! 2025年10月23日 https://www.huya.com
+www.huya.com##.match-score-popup
+www.huya.com##.popup-slide-in.common-popup
+
+! 2025年10月25日 https://www.huya.com
+www.huya.com##div.player-subscribe
+
+! 2025年10月27日 https://yuanbao.tencent.com
+yuanbao.tencent.com##.index_downloadPCAdsWrapperNew__9OzA\+
+yuanbao.tencent.com##.agent-dialogue__tool__download
+yuanbao.tencent.com##.needBottom.agent-dialogue__content--common__header
+yuanbao.tencent.com##.yb__pc_download.index_pc_download__A\+Izz
+
+! 2025年10月30日 https://yuanbao.tencent.com
+yuanbao.tencent.com##.agent-chat__list__item--last.agent-chat__list__item--ai.agent-chat__list__item > .agent-chat__list__item__content > .agent-chat__conv--ai--multiple.agent-chat__bubble--ai.agent-chat__bubble > .agent-chat__bubble__content > .agent-chat__conv--ai__toolbar > .agent-chat__toolbar_new.agent-chat__toolbar > .agent-chat__conv--ai__promptHintV2 > .agent-chat__conv--ai__promptHintV2--hints > .download_hint__wrap
+
+! 2025年10月31日 https://yuanbao.tencent.com
+yuanbao.tencent.com##div.input-guide-v2-item:nth-of-type(1)
+
+! 2025年11月7日 https://youdao.com
+youdao.com##.top-banner-wrap
+
+! 2025年11月13日 https://pan.baidu.com
+pan.baidu.com##.bottom-chat-ai-wrapper
