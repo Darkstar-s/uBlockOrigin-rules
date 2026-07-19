@@ -1,0 +1,25 @@
+live.douyin.com##.aqK_4_5U
+live.douyin.com##div.YWoVbeaa.NP47LiqA.klDKYUkp
+
+pan.baidu.com##.bottom-chat-ai-wrapper
+
+www.bilibili.com##.adblock-tips
+
+www.huya.com###HUYA-UDBSdkLgn
+www.huya.com###UDBSdkLgn-box
+www.huya.com###UDBSdkLgn-mask
+www.huya.com###UDBSdkLgn_iframe
+www.huya.com##.match-score-popup
+www.huya.com##.new-reward-ab-container
+www.huya.com##.popup-slide-in.common-popup
+www.huya.com##div.player-subscribe
+www.huya.com##div:nth-of-type(2) > section > iframe
+
+youdao.com##.top-banner-wrap
+
+yuanbao.tencent.com##.agent-chat__list__item--last.agent-chat__list__item--ai.agent-chat__list__item > .agent-chat__list__item__content > .agent-chat__conv--ai--multiple.agent-chat__bubble--ai.agent-chat__bubble > .agent-chat__bubble__content > .agent-chat__conv--ai__toolbar > .agent-chat__toolbar_new.agent-chat__toolbar > .agent-chat__conv--ai__promptHintV2 > .agent-chat__conv--ai__promptHintV2--hints > .download_hint__wrap
+yuanbao.tencent.com##.agent-dialogue__tool__download
+yuanbao.tencent.com##.index_downloadPCAdsWrapperNew__9OzA\+
+yuanbao.tencent.com##.needBottom.agent-dialogue__content--common__header
+yuanbao.tencent.com##.yb__pc_download.index_pc_download__A\+Izz
+yuanbao.tencent.com##div.input-guide-v2-item:nth-of-type(1)
